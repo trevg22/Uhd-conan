@@ -1,5 +1,5 @@
-# UHD Conan Package
-
+# UHD Conan 
+Conan package for Ettus UHD driver
 ## Setup
 
 Enable the uv environment:
